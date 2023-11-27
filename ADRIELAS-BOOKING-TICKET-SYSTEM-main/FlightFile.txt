@@ -1,0 +1,22 @@
+
+
+		 + + + + + Flight Information + + + + + 
+
+		---------------------------------
+
+		FLIGHT NUMBER:			1
+		FLIGHT CODE:		1
+		COMING FROM:			kisumu
+		TOWARD:			nai
+		ARRIVAL TIME:		12:0
+		DEPARTURE TIME:		14:0
+		FARE:			1000.0000
+		RESERVED SEATS:		0
+
+		 AVAILABLE SEATS:		36
+
+1 .Empty	2 .Empty	3 .Empty	4 .Empty	
+5 .Empty	6 .Empty	7 .Empty	8 .Empty	
+9 .Empty	10 .Empty	11 .Empty	12 .Empty	
+13 .Empty	14 .Empty	15 .Empty	16 .Empty	
+17 .Empty	18 .Empty	19 .Empty	20 .Empty	
